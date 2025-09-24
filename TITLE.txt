@@ -1,0 +1,9 @@
+TITLE:
+Personalized news feed 
+DESCRIPTION:
+Personalized News Feed System is an application that delivers tailored news articles to users based on their reading habits and interests. It uses NLP to analyze article content, extract topics/keywords, and build user profiles. Articles are then ranked using similarity scoring (cosine similarity of embeddings or keyword matching).
+Users sign up/login.
+System fetches latest news via API (e.g., NewsAPI).
+NLP processes and categorizes articles.
+Recommendations are generated based on user interests.
+Users can like, bookmark, or dislike articles to improve personalization.
