@@ -91,9 +91,9 @@ The API will be availble at `http://localhost:8000`
 - **Database**: Supabase (PostgreSQL-based backend-as-a-service)
 - **Language**: Python 3.8+
 
-### Key COmponents
+### Key Components
 
-1. **'src/db.py1**: Database operations 
+1. **`src/db.py1`**: Database operations 
     - Handles all CRUD operations with supabase
 2. **`src/logic.py`**:Bussiness logic 
     - Task validation and processing
